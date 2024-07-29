@@ -1,1 +1,1 @@
-# Ionogram-foF2-forecast
+# Ionogram-TEC-forecast
